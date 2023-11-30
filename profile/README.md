@@ -1,6 +1,6 @@
 # This is the [anio.software](https://anio.software) software project
 
-- [@anio-software](https://github.com/anio-softare) contains software that is to be used by actual end users.
+- [@anio-software](https://github.com/anio-software) contains software that is to be used by actual end users.
 - [@anio-sh](https://github.com/anio-sh) contains tools for bootstraping this project.
 - [@anio-core-sh](https://github.com/anio-core-sh) contains code used by the tools of @anio-sh.
 
